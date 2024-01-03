@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>QuickStartWebApi2</name>
+    </assembly>
+    <members>
+        <member name="M:QuickStartWebApi2.Controllers.PessoaController.SearchByName(System.String)">
+            <summary>
+            Recupera uma lista de pessoas pesquisando pelo nome.
+            </summary>
+            <returns>Retorna a lista de pessoas pesquisando pelo nome</returns>
+            <response code="200">Se a lista foi obtida com sucesso</response>
+        </member>
+    </members>
+</doc>

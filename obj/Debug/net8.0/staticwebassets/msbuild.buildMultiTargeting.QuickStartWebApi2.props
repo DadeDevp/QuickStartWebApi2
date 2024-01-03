@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QuickStartWebApi2.props" />
+</Project>
